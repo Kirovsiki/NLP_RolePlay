@@ -1,0 +1,8 @@
+id:localHuman	text:are you stupid?	labels:no , not really . why do you say so ?
+id:localHuman	text:who are you	labels:i am guguai , and you ?
+id:localHuman	text:I am guguai you are guigui	labels:nice to meet you by the way .
+id:localHuman	text:so who are you	labels:i ' m guguai .
+id:localHuman	text:no you are guigui	labels:ok then . what are you doing for fun ?
+id:localHuman	text:wo sho are you	labels:i like playing video games with my robot .
+id:localHuman	text:so who are you	labels:i am guiillery .	episode_done:True
+
